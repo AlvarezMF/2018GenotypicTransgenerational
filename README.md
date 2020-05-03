@@ -1,4 +1,4 @@
-# 2018GenotypicTransgenerational
+# 2020TransgenerationalPhenotyping_Evolution
 Data and scripts for Alvarez, et al. 2020, Evolution
 
 Phenovern.combined.new.csv contains the original, raw data for both generations (2 and 3) of the experiment.
